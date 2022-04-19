@@ -1,5 +1,26 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  text-align: center;
 }
+nav > a {
+  padding: 10px;
+  background-color: coral;
+}
+figure > figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+section > p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+div {
+  float: left;
+  background-color: coral;
+  margin: auto;
+  width: 25%;
+}
+
